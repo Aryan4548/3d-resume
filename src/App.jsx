@@ -49,7 +49,7 @@ function ProjectsPoster({ posterVisible, setTarget, isMobile }) {
       title: '3D Resume',
       description: 'Interactive 3D resume using React Three Fiber.',
       github: 'https://github.com/Aryan4548/3d-resume',
-      netlify: 'https://3D-resume.netlify.app'
+      netlify: 'https://3d-resume-aryan.netlify.app'
     },
     {
       title: 'Whats Chat',
